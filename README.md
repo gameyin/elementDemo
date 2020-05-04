@@ -6,7 +6,7 @@
 > 2. axios接口调用；
 > 3. element-ui表格和表单使用；
 >
-> ![userManage](src\assets\userManage.png)
+> ![userManage](src/assets/userManage.png)
 
 ## Build Setup
 
